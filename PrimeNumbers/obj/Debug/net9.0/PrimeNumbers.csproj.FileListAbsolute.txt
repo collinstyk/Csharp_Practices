@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.exe
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.deps.json
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.runtimeconfig.json
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.dll
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.pdb
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.sourcelink.json
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.dll
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\refint\PrimeNumbers.dll
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.pdb
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSharp_Practices\PrimeNumbers\obj\Debug\net9.0\ref\PrimeNumbers.dll

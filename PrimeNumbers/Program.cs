@@ -22,4 +22,5 @@
     }
 }
 
+// Testing out the function
 PrintPrimeNumbers(20000);
